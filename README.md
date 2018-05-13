@@ -4,6 +4,6 @@ You can add a todo, mark it as complete, or delete one.
 #### HOW TO USE #####
 
 1) Clone or Download git repo
-2) run npm install
+2) cd into the folder and run npm install
 3) run node app.js
 4) Open a broswer and go to localhost:3000
